@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendiendo Ruso</title>
+    <!--Link Css-->
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="ruso.css">
+    <!--estilos de letras-->
+    <link rel="stylesheet" href="<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oranienbaum&family=Oswald:wght@200..700&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+    <!--javascrip-->
+    <script src="general.js"></script>
+</head>
+<body>
+    <div class="todo">
+        <header>
+            <h1 class="tituloR">Aprendiendo Ruso</h1>
+        </header>
+        <hr>
+        <div class="nav">
+            <nav>
+                <ul>
+                  <li><a href="index.html">Inicio</a></li>
+                  <li><a href="electronica.html">Electrónica y Programación</a></li>
+                  <li><a href="carros.html">Carros</a></li>
+                </ul>
+              </nav>
+        </div>
+        <div class="cp">
+            <div class="nose">
+                <section>
+                    <article>
+                        <h3>Inicio</h3>
+                        <time datetime="12/01/2025">Domindo, 12 de enero del 2025</time>
+                        <p class="bienvenida">Hola, como ya deben saber estoy aprendiendo ruso para poder estudiar en ese país no se sabe con sertesa el futuro pero
+                            en lo posible si quisiera estudiar en un futuro, al estudiar este idioma nos damos cuenta que tiene otro abesedeario
+                            el abecedario cirílico que tiene algunas letras paresidas de nuestro abecedario este abecedario no solo es para 
+                            la lengua rusa sino que también se usa en muchos otros paises y lenguas como eslava, túrquica, mongólica, urálica e iránica de
+                            Europa del Sudeste, Europa Oriental, el Cáucaso, Asia Central, Asia del Norte y Asia Oriental, y que se utiliza en 
+                            varias lenguas eslavas (ruso, ucraniano, serbio, búlgaro, macedonio, bielorruso) y no eslavas (kazajo, uzbeko, kirguís, tayiko, azerí, gagaúzo, turcomano, mongol).  </p>
+                        </article>  
+                </section>
+                    <div class="bienvenida">
+                        <p>
+                            Comenzando para poder saludar diciendo hola en ruso se escribe "Привет" su pronunciación vendria
+                            hacer algo como "privet", para escribir yo soy es "Я" su pronunciación seria "iya", en mi caso
+                            seria "Я Anthony" la pronunciación es "iya anthoní" que significa yo soy Anthony
+                        </p>
+                    </div>
+            </div>
+            <aside class="derecha">
+                <p class="per1">
+                    Imagenes
+                </p>
+              <hr>
+              <div class="info">
+                <p  class="per">
+                    Abecedario cirílico
+                </p class="per">
+                <img src="imagenes/abecedario.jpeg" alt="Abecedario">
+                <img src="imagenes/ra.jpeg" alt="Ruso Español">
+                 </div>
+                 <p class="otro">
+                    Pronunciación Audio
+                 </p>
+                 <div class="audio">
+                    <!-- Ícono de la bocina -->
+                    <i class="horn" onclick="playSound('hornSound')">🔊</i>
+                    Hola
+                    <i class="horn1" onclick="playSound('hornSound1')">🔊</i>
+                    Yo soy
+                </div>
+            
+                <!-- Audio -->
+                <audio id="hornSound">
+                    <source src="sonidos/hola.m4a" type="audio/mpeg">
+                </audio>
+                <audio id="hornSound1">
+                    <source src="sonidos/yo_soy.m4a" type="audio/mpeg">
+                </audio>
+                <cite class="cita">
+                    <a href="https://es.wikipedia.org/wiki/Alfabeto_cir%C3%ADlico" target="_blank" rel="noopener noreferrer">
+                        Más informacion
+                    </a>
+                </cite>
+            </div>
+        </aside>
+        </div>
+    </div>
+</body>
+</html>

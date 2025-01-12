@@ -1,0 +1,38 @@
+.tituloR {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .pri{
+    width: 66%;
+    align-items: center;
+    text-align: justify;
+  }
+
+  .horn {
+    font-size: 30px;
+    color: #007BFF;
+    cursor: pointer;
+}
+
+.audio{
+    text-align: left;
+    margin: 0px 0px 30px 50px;
+}
+
+.otro{
+    text-align: center;
+    margin-top: 0;
+    padding-top: 7px;
+}
+
+.horn1{
+    font-size: 30px;
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+img{
+    padding: 7px;
+}
