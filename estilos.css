@@ -177,3 +177,48 @@ header{
   transform: scale(1.03);
   box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);
 }
+@media(max-width:500px){
+  nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+    font-size: 14px;
+    margin:0 ;
+}
+li{
+  margin: 5px;
+  padding: 5px;
+}
+.pinterest-gallery img {
+  width: 100%;
+  height: 245px;
+  border-radius: 10px;
+  box-shadow: 0 10px 15px rgba(49, 103, 153, 0.24);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.abece{
+  width: 165px;
+}
+.derecha{
+  text-align: center;
+  float: right;
+  width: 36%;
+  padding-left: 15px;
+  height: auto;
+}
+}
+@media(max-width: 860px){
+  .abece{
+    width: 280px;
+  }
+  .derecha{
+    text-align: center;
+    float: right;
+    width: 36%;
+    padding-left: 15px;
+    height: auto;
+  }
+}
