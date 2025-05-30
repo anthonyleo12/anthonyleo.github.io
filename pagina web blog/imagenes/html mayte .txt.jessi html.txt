@@ -1,0 +1,20 @@
+}<html>
+<head>
+<title>mayte y jessica</title>
+<title>cocina para todos ustedes</title>
+</head>
+<body>
+<p><b>bienvenido,</b></p>
+<p>estas en la pagina <b>comida para todos</b>.<p/>
+<p>aqui aprenderas recetas faciles y deliciosas.<p/>
+<p>variedades de redetas para mejorar.<p/>
+</body>
+</html>
+<header>
+   <nav>
+     <ul>
+<li><a href="https://www.youtube.com/results?search_query=recetas+faciles+y+rapidas">videos de ejemplo</a></li>
+</ul>
+    </nav>
+</header>
+

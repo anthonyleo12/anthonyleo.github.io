@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>mayte y jessica</title>
+<title>cocina para todos ustedes</title>
+</head>
+<body>
+<p><b>bienvenido,</b></p>
+<p>estas en la pagina <b>comida para todos</b>.<p/>
+<p>aqui aprenderas recetas faciles y deliciosas.<p/>
+<p>variedades de redetas para mejorar.<p/>
+</body>
+</html>
+<IMG Aling=ARC="https://www.bing.com/search?q=recetas+de+comida&form=ANNTH1&refig=A51F7255377E44B280FCAB655CBE1C52&pc=U531&pq=recetas+&pqlth=8&assgl=17&sgcn=recetas+de+comida&qs=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-8&sp=4&ghc=0&cvid=A51F7255377E44B280FCAB655CBE1C52&clckatsg=1&hsmssg=0
+<header>
+   <nav>
+     <ul>
+<li><a href="https://www.youtube.com/results?search_query=recetas+faciles+y+rapidas">videos de ejemplo</a></li>
+</ul>
+    </nav>
+</header>
+

@@ -1,0 +1,33 @@
+<html>
+<head>
+<hl>
+ALINEAR TEXTO
+</hl>
+</head>
+<body>
+<p>esto es una ptactica de como alinear texto</p>
+
+<div aling="center">
+<p><b>Alineado en el centro: </b></p>
+<p>Este seria el resultado </p>
+<p>Este seria el resultado</p>
+</div>
+
+<div aling="right">
+<p><b>Alineado a la derecha:</b></p>
+<p>Este seria el resultado </p>
+<p>Este seria el resultado </p>
+<p>Este seria el resultado </p>
+</div>
+<br><br><br>
+
+<div aling="left">
+<p><b>Alineado a la izquierda:</b></p>
+<p>Este seria el resultado </p>
+
+</div>
+</body>
+</html>
+
+
+
